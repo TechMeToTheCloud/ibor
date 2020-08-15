@@ -11,5 +11,5 @@ The scenario is as below:
 <br>Here are the steps to follow:
 * setup Azure event hubs and Azure Databricks with this article [Azure Event Hub Azure Databrick](https://medium.com/@tiwesley/azure-event-hubs-azure-databricks-2e3dc5389b0d)
 * Run the notebook except the last step that stops the stream
-* Execute the .net program to send message(s)
+* Execute Program.cs to send message(s) (make sure to update the file with the file path used to send an event and also the connection string key of your Azure Event Hub)
 * Run the cell (the one before stoping the stream) to vizualise how the portfolio valuation is updated
