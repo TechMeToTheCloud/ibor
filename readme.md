@@ -13,3 +13,7 @@ The scenario is as below:
 * Run the notebook except the last step that stops the stream
 * Execute Program.cs to send message(s) (make sure to update the file with the file path used to send an event and also the connection string key of your Azure Event Hub)
 * Run the cell (the one before stoping the stream) to vizualise how the portfolio valuation is updated
+
+<br> References
+[Microsoft Azure Event Hub](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send)
+[Databricks Azure Event Hub](https://docs.databricks.com/spark/latest/structured-streaming/streaming-event-hubs.html)
