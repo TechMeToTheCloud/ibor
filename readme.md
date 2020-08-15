@@ -15,5 +15,5 @@ The scenario is as below:
 * Run the cell (the one before stoping the stream) to vizualise how the portfolio valuation is updated
 
 <br> References
-[Microsoft Azure Event Hub](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send)
-[Databricks Azure Event Hub](https://docs.databricks.com/spark/latest/structured-streaming/streaming-event-hubs.html)
+<br>[Microsoft Azure Event Hub](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send)
+<br>[Databricks Azure Event Hub](https://docs.databricks.com/spark/latest/structured-streaming/streaming-event-hubs.html)
