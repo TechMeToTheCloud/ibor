@@ -9,7 +9,7 @@ The scenario is as below:
 <br> Ibor-transactions.json is a fie example sent to the Azure Event Hub
 
 <br>Here are the steps to follow:
-* setup Azure event hubs and Azure Databricks with this article [Azure Event Hub Azure Databrick](https://medium.com/@tiwesley/azure-event-hubs-azure-databricks-2e3dc5389b0d)
+* Setup Azure event hubs and Azure Databricks with this article [Azure Event Hub Azure Databrick](https://medium.com/@tiwesley/azure-event-hubs-azure-databricks-2e3dc5389b0d)
 * Run the notebook except the last step that stops the stream
 * Execute Program.cs to send event(s) (make sure to update the file with the file path used to send an event and also the connection string key of your Azure Event Hub)
 * Run the cell (the one before stoping the stream) to vizualise how the portfolio valuation is updated
